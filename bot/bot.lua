@@ -1,6 +1,7 @@
--- #@ENERGY_TEAM
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
+-- #
+-----my_name_is_ehsan*#ربات میخای بیا پی وی
+👇👇
+-----  @Saee_d_28   saeed
 -----لطفا پیام بالا رو پاک نکنید
 
 tdcli = dofile('./tg/tdcli.lua')
@@ -412,7 +413,8 @@ function tdcli_update_callback (data)
 		tdcli_function ({ID="GetChats", offset_order_="9223372036854775807", offset_chat_id_=0, limit_=20}, dl_cb, nil)    
 	end
 end
-
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
+ربات میخای بیا پی وی
+👇👇
+-----my_name_is_ehsan*#
+-----@Saee_d_28     saeed
 -----لطفا پیام بالا رو پاک نکنید
