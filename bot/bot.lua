@@ -1,7 +1,3 @@
--- #@ENERGY_TEAM
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
------لطفا پیام بالا رو پاک نکنید
 
 tdcli = dofile('./tg/tdcli.lua')
 serpent = (loadfile "./libs/serpent.lua")()
